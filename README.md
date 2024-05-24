@@ -57,8 +57,8 @@ Routing and Remote Access:  <br/>
 <img src="https://i.imgur.com/QZw1Hnp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up A DHCP Server Our Donain:  <br/>
+<img src="https://i.imgur.com/L8rtUO8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
 Create Our Own Dedicated Domain Admin Account:  <br/>
