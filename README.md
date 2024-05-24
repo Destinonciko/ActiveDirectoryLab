@@ -49,8 +49,8 @@ Create A New User:  <br/>
 <img src="https://i.imgur.com/2wiZHdv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make A Domain Admin:  <br/>
+<img src="https://i.imgur.com/DZ5ZBSL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
 Create Our Own Dedicated Domain Admin Account:  <br/>
