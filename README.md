@@ -61,12 +61,12 @@ Set Up A DHCP Server Our Donain:  <br/>
 <img src="https://i.imgur.com/L8rtUO8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lease Duration:  <br/>
+<img src="https://i.imgur.com/vMRtuQ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create A New VM:  <br/>
+<img src="https://i.imgur.com/g0uXg4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
 Create Our Own Dedicated Domain Admin Account:  <br/>
