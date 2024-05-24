@@ -25,24 +25,24 @@ Create Our Virtual Machines:  <br/>
 <img src="https://i.imgur.com/4oBAPwM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Insert Guest Additions cd Image: <br/>
+<img src="https://i.imgur.com/PIXhmFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up Our IP Addressing:  <br/>
+<img src="https://i.imgur.com/EfrYFa0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename This PC:  <br/>
+<img src="https://i.imgur.com/8J2Pau5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Active Directory Domain Services:  <br/>
+<img src="https://i.imgur.com/XUMu7DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Our Own Dedicated Domain Admin Account:  <br/>
+<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
