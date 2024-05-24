@@ -34,7 +34,7 @@ Set Up Our IP Addressing:  <br/>
 <br />
 <br />
 Rename This PC:  <br/>
-<img src="https://i.imgur.com/8J2Pau5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZJYdJ6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
