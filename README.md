@@ -26,7 +26,7 @@ Create Our Virtual Machines:  <br/>
 <br />
 <br />
 Insert Guest Additions cd Image: <br/>
-<img src="https://i.imgur.com/PIXhmFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gYAuWw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Set Up Our IP Addressing:  <br/>
