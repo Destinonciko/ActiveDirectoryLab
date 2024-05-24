@@ -62,7 +62,7 @@ Set Up A DHCP Server Our Donain:  <br/>
  <br />
  <br />
 Lease Duration:  <br/>
-<img src="https://i.imgur.com/vMRtuQ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jCfzCW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
  <br />
 Create A New VM:  <br/>
