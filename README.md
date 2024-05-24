@@ -30,7 +30,7 @@ Insert Guest Additions cd Image: <br/>
 <br />
 <br />
 Set Up Our IP Addressing:  <br/>
-<img src="https://i.imgur.com/EfrYFa0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nsj7abs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Rename This PC:  <br/>
