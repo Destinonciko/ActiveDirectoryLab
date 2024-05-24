@@ -71,35 +71,6 @@ Create A New VM:  <br/>
  <br />
 Active Directory Users And Computers:  <br/>
 <img src="https://i.imgur.com/82zIocG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
- <br />
-Create Our Own Dedicated Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/8bBaC7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 </p>
 
 <!--
