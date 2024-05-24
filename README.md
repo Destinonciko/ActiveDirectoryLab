@@ -38,7 +38,7 @@ Rename This PC:  <br/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
-<img src="https://i.imgur.com/XUMu7DG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YIf83DA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Our Own Dedicated Domain Admin Account:  <br/>
