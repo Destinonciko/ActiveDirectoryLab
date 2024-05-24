@@ -21,8 +21,8 @@ Download VirtualBox: <br/>
 <img src="https://i.imgur.com/fMChtzC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Our Virtual Machines:  <br/>
+<img src="https://i.imgur.com/4oBAPwM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
